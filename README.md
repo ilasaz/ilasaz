@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I'm Iljasa Zekjiri
+- 🌱 I’m currently learning about Software Architecture
+- 💬 Ask me about: C#, .NET, RESTful APIs, SQL Databases, Testing, CI/CD
+- 📫 How to reach me: https://www.linkedin.com/in/iljasaz/
 <!--
 **ilasaz/ilasaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
